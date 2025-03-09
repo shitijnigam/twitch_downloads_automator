@@ -1,4 +1,5 @@
 downloads/
+downloads_twitch_vod/
 .zshrc
 twitch_vod_extractor.py
 twitch_vod_extractor_debug.py
