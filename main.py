@@ -169,7 +169,7 @@ def main():
     parser.add_argument(
         "--quality",
         "-q",
-        default="best",
+        default="720p",
         help="Video quality (best, worst, 720p, etc.)",
     )
     args = parser.parse_args()
