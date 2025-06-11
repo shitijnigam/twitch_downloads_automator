@@ -1,0 +1,114 @@
+candle ken leo
+- Timestamp: 00:00:45, Characters: Alph, Joker
+- Timestamp: 00:04:30, Characters: Alph, Sonic
+- Timestamp: 00:07:45, Characters: Alph, Sonic
+- Timestamp: 00:15:55, Characters: Alph, Sephiroth
+- Timestamp: 00:19:20, Characters: Alph, Joker
+- Timestamp: 00:26:20, Characters: Olimar, katarina
+- Timestamp: 00:28:40, Characters: Joker,  Ness
+- Timestamp: 00:31:55, Characters: Joker, Olimar
+- Timestamp: 00:33:55, Characters: Joker,  Mii Gunner
+- Timestamp: 00:34:35, Characters: Joker, Olimar
+- Timestamp: 00:35:00, Characters: Joker,  Ness
+- Timestamp: 00:36:00, Characters: Joker, Olimar
+- Timestamp: 00:36:15, Characters: Joker, Olimar
+- Timestamp: 00:37:05, Characters: Joker, Olimar
+- Timestamp: 00:38:05, Characters: Joker, Little Mac
+- Timestamp: 00:44:30, Characters: Kazuya, Joker
+- Timestamp: 00:45:45, Characters: Alph, Joker
+
+zackray leo
+Found 24 distinct new games:
+- Timestamp: 00:00:20, Characters: Alph, Dark Pit
+- Timestamp: 00:03:05, Characters: R.O.B., Joker
+- Timestamp: 00:14:15, Characters: Alph, Joker
+- Timestamp: 00:16:15, Characters: R.O.B, Joker
+- Timestamp: 00:17:40, Characters: R.O.B., Joker
+- Timestamp: 00:22:40, Characters: R.O.B.
+- Timestamp: 00:24:15, Characters: R.O.B., Joker
+- Timestamp: 00:25:00, Characters: R.O.B., Joker
+- Timestamp: 00:26:55, Characters: Alpha, Joker
+- Timestamp: 00:29:40, Characters: R.O.B., Joker
+- Timestamp: 00:36:50, Characters: R.O.B., Joker
+- Timestamp: 00:40:30, Characters: Isabelle, Incineroar
+- Timestamp: 00:43:35, Characters: Alph, Joker
+- Timestamp: 00:49:10, Characters: Candle, Katarina
+- Timestamp: 00:51:35, Characters: R.O.B., Min Min
+- Timestamp: 00:54:10, Characters: Alph, Joker
+- Timestamp: 01:01:45, Characters: Alph, R.O.B.
+- Timestamp: 01:04:10, Characters: R.O.B., Joker
+- Timestamp: 01:11:45, Characters: Olimar, Sora
+- Timestamp: 01:15:45, Characters: Ness, Joker
+- Timestamp: 01:22:55, Characters: Alph, Candle
+- Timestamp: 01:27:35, Characters: Pit, Joker
+- Timestamp: 01:45:00, Characters: Joker, Pit
+- Timestamp: 01:45:15, Characters: Joker, Piranha Plant
+
+leo cosmos dabuz
+Found 24 distinct new games:
+- Timestamp: 00:00:15, Characters: Alph, Joker
+- Timestamp: 00:04:30, Characters: Joker, Inkling
+- Timestamp: 00:16:15, Characters: Alph, Mythra/Pyra
+- Timestamp: 00:19:40, Characters: Alph, Mythra/Pyra
+- Timestamp: 00:22:50, Characters: Joker, Mythra/Pyra
+- Timestamp: 00:25:35, Characters: Rosalina & Luma, My
+- Timestamp: 00:29:55, Characters: Joker, Mythra/Pyra
+- Timestamp: 00:33:30, Characters: Alph, Joker
+- Timestamp: 00:36:50, Characters: Alph, Joker
+- Timestamp: 00:40:00, Characters: Alph, Pyra/Mythra
+- Timestamp: 00:40:15, Characters: Alph, Mythra
+- Timestamp: 00:42:50, Characters: Alph, Pyra
+- Timestamp: 00:43:15, Characters: Joker, Mythra/Pyra
+- Timestamp: 00:46:05, Characters: Alph, Joker
+- Timestamp: 00:51:25, Characters: Joker, forty
+- Timestamp: 00:53:10, Characters: Alph, AAAAAAAALPH
+- Timestamp: 00:57:15, Characters: Joker, My
+- Timestamp: 01:00:05, Characters: Joker, Pyra
+- Timestamp: 01:03:25, Characters: Alph, Joker
+- Timestamp: 01:07:10, Characters: Alph, Joker
+- Timestamp: 01:07:25, Characters: Joker, My
+- Timestamp: 01:15:35, Characters: Incineroar, Piranha Plant
+- Timestamp: 01:15:50, Characters: Joker, Mythra/Pyra
+- Timestamp: 01:19:20, Characters: Duck Hunt
+
+cosmos dabuz supahsemmie
+
+--- Analysis Complete ---
+Found 37 distinct new games:
+- Timestamp: 00:00:05, Characters: Kazuya, Sora, Mii Brawler, Mii Swordfighter, Mii Gunner
+- Timestamp: 00:04:32, Characters: Yes, this is the VS screen. Mythra/Pyra, Rosalina & Luma
+- Timestamp: 00:05:30, Characters: Mythra, Rosalina & Luma
+- Timestamp: 00:09:45, Characters: Yes, it is the VS screen. Young Link, Rosalina & Luma
+- Timestamp: 00:14:05, Characters: Young Link, Rosalina
+- Timestamp: 00:14:35, Characters: Mythra/Pyra, Young Link
+- Timestamp: 00:17:22, Characters: Mythra, Rex
+- Timestamp: 00:17:35, Characters: Yes, this is the character select screen in Super Smash Bros. Ultimate, right before a match starts. Mario, Donkey Kong, Link, Samus, Dark Samus, Yoshi, Kirby, Fox, Pikachu, Luigi, Ness, Captain Falcon, Jigglypuff, Peach, Daisy, Bowser, Ice Climbers, Sheik, Zelda, Dr. Mario, Pichu, Falco, Marth, Inkling, Mewtwo, Roy, Chrom, Mr. Game & Watch, Meta Knight, Pokemon Trainer, Wario, Lucas, Sonic, Greninja, Ridley, Steve, Sephiroth, Pyra/Mythra, Kazuya, Sora, Mii Brawler, Mii Swordfighter, Mii Gunner
+- Timestamp: 00:17:47, Characters: forty, MinMistake
+- Timestamp: 00:22:15, Characters: Yes, this is the 'VS' screen. Mario, Donkey Kong, Link, Samus, Dark Samus, Yoshi, Kirby, Fox, Pikachu, Peach, Daisy, Bowser, Ice Climbers, Sheik, Mewtwo, Lucas, Ridley, Simon, Richter, King K. Rool, Isabelle, Incineroar, Piranha Plant, Joker, Hero, Banjo & Kazooie, Terry, Byleth, Min Min, Steve, Sephiroth, Pyra, Kazuya, Sora, Mii Brawler, Mii Swordfighter, Mii Gunner
+- Timestamp: 00:24:10, Characters: Marth, Young Link, Villager, Isabelle
+- Timestamp: 00:26:30, Characters: Young Link
+- Timestamp: 00:26:42, Characters: Yes, this IS the character select screen before a match starts. Mario, Donkey Kong, Link, Samus, Dark Samus, Yoshi, Kirby, Fox, Pikachu, Peach, Daisy, Bowser, Ice Climbers, Sheik, Mewtwo, Lucas, Ridley, Simon, Richter, King K. Rool, Isabelle, Incineroar, Piranha Plant, Joker, Hero, Banjo & Kazooie, Terry, Byleth, Min Min, Steve, Sephiroth, Pyra/Mythra, Kazuya, Sora, Mii Brawler, Mii Swordfighter, Mii Gunner
+- Timestamp: 00:26:57, Characters: Young Link, Rosalina
+- Timestamp: 00:31:25, Characters: Young Link, Rosalina
+- Timestamp: 00:31:50, Characters: Rosalina & Luma
+- Timestamp: 00:32:12, Characters: Mythra/Pyra, Min Min
+- Timestamp: 00:37:00, Characters: Yes, it is the VS screen. Mythra/Pyra, Young Link
+- Timestamp: 00:37:15, Characters: Mythra, Young Link
+- Timestamp: 00:40:35, Characters: Yes, this is the character selection screen. Mythra/Pyra, Min Min
+- Timestamp: 00:45:32, Characters: Yes, it is the VS screen. Mythra/Pyra, Min Min
+- Timestamp: 00:47:47, Characters: Mythra, Pyra
+- Timestamp: 00:48:00, Characters: Arthur, Kazuya, Sora, Mii Brawler, Mii Swordfighter, Mii Gunner, Banjo & Kazooie, Terry, Min Min, Fox, Pikachu
+- Timestamp: 00:51:05, Characters: Yes, this is the character select screen. Mythra/Pyra, Min Min
+- Timestamp: 00:51:17, Characters: Yes, this is the 'VS' screen. Mythra/Pyra, Min Min
+- Timestamp: 00:53:45, Characters: Mythra/Pyra, Min Min
+- Timestamp: 00:55:45, Characters: Min Min
+- Timestamp: 00:56:02, Characters: Bayonetta, Pyra/Mythra
+- Timestamp: 00:59:22, Characters: Yes, this is the character select screen, which is the 'VS' screen before a match starts. Mythra/Pyra, Min Min
+- Timestamp: 00:59:35, Characters: Yes, it IS the VS screen. Mythra/Pyra, Min Min
+- Timestamp: 01:02:45, Characters: Mythra/Pyra, Min Min
+- Timestamp: 01:04:17, Characters: Min Min, Pyra/Mythra
+- Timestamp: 01:07:10, Characters: Pyra, Min Min
+- Timestamp: 01:07:35, Characters: Pyra, Min Min
+- Timestamp: 01:09:55, Characters: Inkling, Rosalina & Luma
+- Timestamp: 01:12:25, Characters: Inkling, Rosalina & Luma
+- Timestamp: 01:14:10, Characters: Inkling
