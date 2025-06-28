@@ -1,7 +1,10 @@
+##
+
 # smash_analyzer.py
 
 import os
 import cv2  # OpenCV for video processing
+from datetime import date
 
 # import google.generativeai as genai
 from google import genai
@@ -22,21 +25,21 @@ if not API_KEY:
     )
 
 # 2. Set the path to your video file
-VIDEO_PATH = "20250531_chickncup_Grind Session with Ignaize_2473727025.mp4"  # <--- MAKE SURE THIS FILENAME MATCHES YOUR VIDEO
+VIDEO_PATH = "../downloads/20250622_Sparg0_Wifi tournament again_2492503224.mp4"  # <--- MAKE SURE THIS FILENAME MATCHES YOUR VIDEO
 
 # 3. How often to check the video (in seconds).
 # A smaller number is more accurate but uses more API calls (and costs more).
 # 5 seconds is a good starting point. The VS screen is usually up for at least this long.
-SECONDS_BETWEEN_CHECKS = 2.5
+SECONDS_BETWEEN_CHECKS = 2250
 
 # 4. The prompt we will send to the AI for each frame
 PROMPT = """
 Analyze this image from a Super Smash Bros. Ultimate video.
 Is this the 'VS' screen that appears right before a match starts?
-This screen clearly shows the character portraits and their names.
-- If it IS the VS screen, list the character names you see, separated by commas.
-- If it is NOT the VS screen (e.g., it's gameplay, a menu, a results screen), please respond with only the word 'NO'.
-Example response if it's a match: 'Mario, Link, Pikachu'
+The VS screen clearly shows TWO character portraits and their names (with player names indicated at the bottom, and character names at the top).
+- If it IS the VS screen, list the player names and characters in the format indicated below
+- If it is NOT the VS screen (e.g., it's gameplay, a menu, a character select screen with a lot of characters, or a results screen), please respond with only the word 'NO'.
+Response should follow this format: {Player Name} ({Character}) vs. {Player Name} ({Character}) if it's a match, e.g. Sparg0 (Roy) vs. Sonix (Sonic)
 """
 
 # --- Main Program ---
@@ -95,7 +98,6 @@ def main():
 
             try:
                 # Send the prompt and the image to the Gemini model
-                # response = model.generate_content([PROMPT, pil_image])
                 response = client.models.generate_content(
                     model=model_name,
                     contents=[PROMPT, pil_image],
@@ -155,6 +157,36 @@ def main():
             print(
                 f"- Timestamp: {match['timestamp']}, Characters: {match['characters']}"
             )
+
+        # --- BEGIN: SAVE TIMESTAMPS TO FILE ---
+        try:
+            # 1. Generate the filename with today's date
+            today_str = date.today().strftime("%Y-%m-%d")
+            filename = f"timestamps_{today_str}.txt"
+
+            # Check if the file already exists to decide if we need a separator
+            file_exists = os.path.exists(filename)  # <-- ADDED
+
+            # 2. Open the file in append mode ('a'). This will create the file
+            #    if it doesn't exist, or add to the end if it does.
+            with open(filename, "a", encoding="utf-8") as f:  # <-- CHANGED 'w' to 'a'
+                # If the file already has content, add a separator for readability
+                if file_exists:
+                    f.write("\n")
+
+                # Write a header for this specific analysis run
+                f.write(f"--- Analysis for video: {VIDEO_PATH} ---\n")
+
+                # 3. Loop through the final results and write them to the file
+                for match in final_results:
+                    line = f"{match['timestamp']} - {match['characters']}\n"
+                    f.write(line)
+
+            print(f"\n✅ Successfully appended results to '{filename}'")
+
+        except IOError as e:
+            print(f"\n❌ Error: Could not write to file. Reason: {e}")
+        # --- END: SAVE TIMESTAMPS TO FILE ---
 
 
 if __name__ == "__main__":

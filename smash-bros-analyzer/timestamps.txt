@@ -81,7 +81,7 @@ Found 37 distinct new games:
 - Timestamp: 00:09:45, Characters: Yes, it is the VS screen. Young Link, Rosalina & Luma
 - Timestamp: 00:14:05, Characters: Young Link, Rosalina
 - Timestamp: 00:14:35, Characters: Mythra/Pyra, Young Link
-- Timestamp: 00:17:22, Characters: Mythra, Rex
+- Timestamp: 00:17:22, Characters: Mythra, Rex --
 - Timestamp: 00:17:35, Characters: Yes, this is the character select screen in Super Smash Bros. Ultimate, right before a match starts. Mario, Donkey Kong, Link, Samus, Dark Samus, Yoshi, Kirby, Fox, Pikachu, Luigi, Ness, Captain Falcon, Jigglypuff, Peach, Daisy, Bowser, Ice Climbers, Sheik, Zelda, Dr. Mario, Pichu, Falco, Marth, Inkling, Mewtwo, Roy, Chrom, Mr. Game & Watch, Meta Knight, Pokemon Trainer, Wario, Lucas, Sonic, Greninja, Ridley, Steve, Sephiroth, Pyra/Mythra, Kazuya, Sora, Mii Brawler, Mii Swordfighter, Mii Gunner
 - Timestamp: 00:17:47, Characters: forty, MinMistake
 - Timestamp: 00:22:15, Characters: Yes, this is the 'VS' screen. Mario, Donkey Kong, Link, Samus, Dark Samus, Yoshi, Kirby, Fox, Pikachu, Peach, Daisy, Bowser, Ice Climbers, Sheik, Mewtwo, Lucas, Ridley, Simon, Richter, King K. Rool, Isabelle, Incineroar, Piranha Plant, Joker, Hero, Banjo & Kazooie, Terry, Byleth, Min Min, Steve, Sephiroth, Pyra, Kazuya, Sora, Mii Brawler, Mii Swordfighter, Mii Gunner
