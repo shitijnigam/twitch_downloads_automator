@@ -25,12 +25,12 @@ if not API_KEY:
     )
 
 # 2. Set the path to your video file
-VIDEO_PATH = "../downloads/20250622_Sparg0_Wifi tournament again_2492503224.mp4"  # <--- MAKE SURE THIS FILENAME MATCHES YOUR VIDEO
+VIDEO_PATH = "../downloads/20250618_Sparg0_Wifi tournament again ___2488888062.mp4"  # <--- MAKE SURE THIS FILENAME MATCHES YOUR VIDEO
 
 # 3. How often to check the video (in seconds).
 # A smaller number is more accurate but uses more API calls (and costs more).
 # 5 seconds is a good starting point. The VS screen is usually up for at least this long.
-SECONDS_BETWEEN_CHECKS = 2250
+SECONDS_BETWEEN_CHECKS = 2.5
 
 # 4. The prompt we will send to the AI for each frame
 PROMPT = """

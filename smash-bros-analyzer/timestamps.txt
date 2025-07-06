@@ -112,3 +112,216 @@ Found 37 distinct new games:
 - Timestamp: 01:09:55, Characters: Inkling, Rosalina & Luma
 - Timestamp: 01:12:25, Characters: Inkling, Rosalina & Luma
 - Timestamp: 01:14:10, Characters: Inkling
+
+
+--
+
+- Timestamp: 01:39:20, Characters: Pit, Marth
+- Timestamp: 01:39:37, Characters: Pit, Marth
+- Timestamp: 01:39:50, Characters: YES
+
+Pit, Marth
+- Timestamp: 01:40:10, Characters: Pit, Marth
+- Timestamp: 01:40:42, Characters: Pit, Marth
+- Timestamp: 01:40:55, Characters: Pit, Lucina
+- Timestamp: 01:41:07, Characters: Pit, Marth
+- Timestamp: 01:41:20, Characters: Marth, Pit
+- Timestamp: 01:41:32, Characters: Pit, Marth
+- Timestamp: 01:41:45, Characters: Marth, Pit
+- Timestamp: 01:42:02, Characters: Pit, Marth
+- Timestamp: 01:42:15, Characters: Pit, Marth
+- Timestamp: 01:42:32, Characters: Marth, Pit
+- Timestamp: 01:42:47, Characters: Pit, Marth
+- Timestamp: 01:43:12, Characters: Pit, Marth
+- Timestamp: 01:43:27, Characters: Pit, Marth
+- Timestamp: 01:43:40, Characters: Marth, Pit
+- Timestamp: 01:44:05, Characters: Yes
+Mario, Donkey Kong, Link, Samus, Peach, Daisy, Bowser, Ice Climbers, Mewtwo, Roy, Chrom, Mr. Game & Watch, Dark Samus, Yoshi, Kirby, Pikachu, Lucachu, Luigi, Ness, Captain Falcon, Sheik, Zelda, Dr. Mario, Pichu, Steve, Sephiroth, Pyra/Mythra, Kazuya, Sora, Mii Brawler, Mii Swordfighter, Mii Gunner
+- Timestamp: 01:44:20, Characters: Pit, Marth
+- Timestamp: 01:44:32, Characters: Pit, Marth
+- Timestamp: 01:44:45, Characters: Pit, Marth
+- Timestamp: 01:44:57, Characters: Pit, Marth
+- Timestamp: 01:45:12, Characters: Pit, Marth
+- Timestamp: 01:45:25, Characters: Chrom, Dark Pit
+- Timestamp: 01:45:42, Characters: Pit, Lucina
+- Timestamp: 01:45:57, Characters: YES
+Pit, Marth
+- Timestamp: 01:46:10, Characters: Marth, Pit
+- Timestamp: 01:46:22, Characters: Pit, Marth
+- Timestamp: 01:46:37, Characters: Pit, Marth
+- Timestamp: 01:46:57, Characters: Lucina, Pit
+- Timestamp: 01:47:10, Characters: Pit, Marth
+- Timestamp: 01:47:25, Characters: Pit, Marth
+- Timestamp: 01:47:40, Characters: Pit, Lucina
+- Timestamp: 01:47:52, Characters: Pit, Marth
+- Timestamp: 01:48:25, Characters: Marth, Pit
+- Timestamp: 01:48:50, Characters: Marth, Pit
+- Timestamp: 01:49:07, Characters: Pit, Lucina
+- Timestamp: 01:49:25, Characters: Pit, Marth
+- Timestamp: 01:49:42, Characters: Pit, Marth
+- Timestamp: 01:49:55, Characters: Marth
+- Timestamp: 01:50:12, Characters: Mario, Donkey Kong, Link, Samus, Peach, Daisy, Bowser, Ice Climbers, Mewtwo, Roy, Chrom, Mr. Game & Watch, Lucas, Sonic, King Dedede, Olimar, Greninja, Palutena, Pac-Man, Robin, Ridley, Simon, Richter, King K. Rool, Steve, Sephiroth, Sheik, Zelda, Dr. Mario, Pichu, Fox, Pikachu, Luigi, Ness, Captain Falcon, Jigglypuff, Meta Knight, R.O.B., Toon Link, Wolf, Villager, Mega Man, Wii Fit Trainer, Rosalina & Luma, Little Mac, Bowser Jr., Duck Hunt, Incineroar, Piranha Plant, Isabelle, Kazuya, Sora, Joker, Hero, Banjo & Kazooie, Terry, Byleth, Min Min, Mii Brawler, Mii Swordfighter, Mii Gunner
+- Timestamp: 01:50:25, Characters: Pit, Marth
+- Timestamp: 01:50:37, Characters: Marth, Pit
+- Timestamp: 01:50:55, Characters: Pit, Marth
+- Timestamp: 01:51:12, Characters: Pit, Marth
+- Timestamp: 01:51:27, Characters: Pit, Marth
+- Timestamp: 01:51:40, Characters: Pit, Marth
+- Timestamp: 01:51:57, Characters: Pit, Lucina
+- Timestamp: 01:52:32, Characters: Pit, Marth
+- Timestamp: 01:52:45, Characters: Pit, Marth
+- Timestamp: 01:52:57, Characters: Pit, Marth
+- Timestamp: 01:53:15, Characters: Pit, Marth
+- Timestamp: 01:53:45, Characters: Pit, Roy
+- Timestamp: 01:53:57, Characters: Pit, Roy
+- Timestamp: 01:54:10, Characters: Pit, Roy
+- Timestamp: 01:54:22, Characters: Pit, Roy
+- Timestamp: 01:54:35, Characters: Pit, Roy
+- Timestamp: 01:54:47, Characters: Pit, Roy
+- Timestamp: 01:55:00, Characters: Pit, Roy
+- Timestamp: 01:55:12, Characters: Pit, Roy
+- Timestamp: 01:55:25, Characters: Pit, Roy
+- Timestamp: 01:55:52, Characters: Pit, Roy
+- Timestamp: 01:56:05, Characters: Pit, Roy
+- Timestamp: 01:56:20, Characters: Pit, Roy
+- Timestamp: 01:56:32, Characters: Pit, Roy
+- Timestamp: 01:56:47, Characters: Pit, Roy
+- Timestamp: 01:57:02, Characters: Pit, Roy
+- Timestamp: 01:57:15, Characters: Pit, Roy
+- Timestamp: 01:57:27, Characters: Pit, Roy
+- Timestamp: 01:57:40, Characters: Pit, Roy
+- Timestamp: 01:57:55, Characters: Pit, Roy
+- Timestamp: 01:58:12, Characters: YES
+Mario, Donkey Kong, Link, Samus, Peach, Daisy, Bowser, Ice Climbers, Sheik, Mr. Game & Watch, Meta Knight, Pit, Dark Pit, Zero Suit Samus, Pichu, Pikachu, Fox, Luigi, Ness, Captain Falcon, Jigglypuff, Mewtwo, Roy, Chrom, Lucas, Sonic, King Dedede, Olimar, Lucario, R.O.B., Toon Link, Wolf, Villager, Mega Man, Pokémon Trainer, Diddy Kong, Greninja, Palutena, Pac-Man, Robin, Shulk, Bowser Jr., Duck Hunt, Piranha Plant, Joker, Hero, Banjo & Kazooie, Ridley, Simon, Richter, King K. Rool, Isabelle, Incineroar, Sora, Terry, Byleth, Min Min, Sephiroth, Pyra/Mythra, Kazuya, Steve, Mii Brawler, Mii Swordfighter, Mii Gunner
+- Timestamp: 01:58:25, Characters: Pit, Dark Pit
+- Timestamp: 01:58:40, Characters: Dark Pit, Pit
+- Timestamp: 01:58:55, Characters: Pit, Dark Pit
+- Timestamp: 01:59:15, Characters: Pit, Dark Pit
+- Timestamp: 01:59:27, Characters: Pit, Dark Pit
+- Timestamp: 01:59:55, Characters: Pit, Dark Pit
+- Timestamp: 02:00:17, Characters: Dark Pit, Dark Pit
+- Timestamp: 02:00:30, Characters: Pit, Dark Pit
+- Timestamp: 02:00:55, Characters: Pit, Dark Pit
+- Timestamp: 02:01:20, Characters: Pit, Dark Pit
+- Timestamp: 02:01:37, Characters: Pit, Dark Pit
+- Timestamp: 02:02:10, Characters: Dark Pit, Pit
+- Timestamp: 02:02:42, Characters: Pit, Dark Pit
+- Timestamp: 02:02:55, Characters: Dark Pit
+- Timestamp: 02:03:17, Characters: Mario, Donkey Kong, Link, Samus, Peach, Daisy, Bowser, Ice Climbers, Mewtwo, Roy, Chrom, Mr. Game & Watch, Lucas, Sonic, King Dedede, Olimar, Greninja, Palutena, Pac-Man, Robin, Ridley, Simon, Richter, King K. Rool, Steve, Sephiroth, Pyra/Mythra, Yoshi, Kirby, Sheik, Zelda, Dr. Mario, Meta Knight, Pit, Zero Suit Samus, Pichu, Marth, Lucina, Ike, Pokémon Trainer, Diddy Kong, Mega Man, Wii Fit Trainer, Rosalina & Luma, Little Mac, Cloud, Corrin, Bayonetta, Inkling, Banjo & Kazooie, Terry, Byleth, Min Min, Piranha Plant, Joker, Hero, Mii Brawler, Mii Swordfighter, Mii Gunner, Fox, Falco, Wario, Snake, R.O.B., Toon Link, Wolf, Villager, Dark Samus, Kazuya, Sora
+- Timestamp: 02:03:32, Characters: Dark Pit, Mythra/Pyra
+- Timestamp: 02:03:45, Characters: Roy, Mythra
+- Timestamp: 02:03:57, Characters: Dark Pit, Pyra
+- Timestamp: 02:04:10, Characters: Dark Pit, Pyra
+- Timestamp: 02:04:30, Characters: Dark Pit, Pyra/Mythra
+- Timestamp: 02:05:00, Characters: Dark Pit, Pittoo, Pyra, Mythra
+- Timestamp: 02:05:17, Characters: Dark Pit, Pyra
+- Timestamp: 02:05:30, Characters: Pit, Pyra
+- Timestamp: 02:05:55, Characters: Dark Pit, Pyra
+- Timestamp: 02:06:10, Characters: Pit, Isabelle
+- Timestamp: 02:06:22, Characters: Dark Pit, Pyra
+- Timestamp: 02:06:47, Characters: Dark Pit, Pyra
+- Timestamp: 02:07:02, Characters: Pit, Mythra
+- Timestamp: 02:07:22, Characters: Pit, Pyra
+- Timestamp: 02:07:37, Characters: Dark Pit, Pyra
+- Timestamp: 02:08:12, Characters: Kazuya, Sora, Mii Brawler, Mii Swordfighter, Mii Gunner
+- Timestamp: 02:08:25, Characters: Marth, Lucina
+- Timestamp: 02:08:37, Characters: Lucina, Marth
+- Timestamp: 02:09:00, Characters: Marth, Marth
+- Timestamp: 02:09:12, Characters: Roy, Marth
+- Timestamp: 02:09:25, Characters: Byleth, Marth
+- Timestamp: 02:09:55, Characters: Byleth, Lucina
+- Timestamp: 02:10:10, Characters: Byleth, Lucina
+- Timestamp: 02:10:22, Characters: Chrom, Lucina
+- Timestamp: 02:10:50, Characters: Byleth, Marth
+- Timestamp: 02:11:05, Characters: Marth, Byleth
+- Timestamp: 02:11:20, Characters: Marth, Shulk
+- Timestamp: 02:11:35, Characters: Marth, Pichu
+- Timestamp: 02:11:50, Characters: Lucina, Marth
+- Timestamp: 02:12:10, Characters: Marth, Link
+- Timestamp: 02:12:27, Characters: Mario, Donkey Kong, Link, Samus, Peach, Daisy, Bowser, Ice Climbers, Mewtwo, Roy, Lucas, Greninja, Ridley, Simon, Richter, Steve, Dark Samus, Yoshi, Sheik, Mr. Game & Watch, Meta Knight, Olimar, Palutena, King Dedede, Lucario, Robin, Shulk, King K. Rool, Isabelle, Sephiroth, Incineroar, Pyra/Mythra, Kirby, Dr. Mario, Pichu, Falco, Marth, Zero Suit Samus, Pit, Dark Pit, R.O.B., Toon Link, Bowser Jr., Duck Hunt, Piranha Plant, Joker, Mii Brawler, Hero, Banjo & Kazooie, Terry, Byleth, Min Min, Sora, Mii Swordfighter, Mii Gunner, Wario, Snake, Ike, Pokémon Trainer, Diddy Kong, Mega Man, Wii Fit Trainer, Rosalina & Luma, Little Mac, Cloud, Corrin, Bayonetta, Inkling
+- Timestamp: 02:12:40, Characters: Marth, Ike
+- Timestamp: 02:12:55, Characters: Marth, Marth
+- Timestamp: 02:13:07, Characters: Marth, Byleth
+- Timestamp: 02:13:20, Characters: Marth, Marth
+- Timestamp: 02:13:35, Characters: Marth, Chrom
+- Timestamp: 02:13:50, Characters: Marth, Marth
+- Timestamp: 02:14:02, Characters: Marth, Chrom
+- Timestamp: 02:14:22, Characters: Marth, Lucina
+- Timestamp: 02:14:40, Characters: Marth, Marth
+- Timestamp: 02:15:00, Characters: Marth, Chrom
+- Timestamp: 02:15:12, Characters: Marth, Marth
+- Timestamp: 02:15:27, Characters: Marth, Link
+- Timestamp: 02:16:15, Characters: Mario, Donkey Kong, Link, Samus, Peach, Daisy, Bowser, Ice Climbers, Sheik, Zelda, Dr. Mario, Mr. Game & Watch, Meta Knight, Pit, Dark Pit, Pichu, Pokémon Trainer, Diddy Kong, Lucas, Sonic, King Dedede, Olimar, Lucario, R.O.B., Toon Link, Wolf, Villager, Mega Man, Pokémon Trainer, Rosalina & Luma, Little Mac, Greninja, Palutena, Pac-Man, Robin, Shulk, Bowser Jr., Duck Hunt, Piranha Plant, Ryu, Ken, Cloud, Corrin, Bayonetta, Inkling, Ridley, Simon, Richter, King K. Rool, Isabelle, Incineroar, Sora, Mii Brawler, Mii Swordfighter, Mii Gunner, Banjo & Kazooie, Terry, Byleth, Min Min, Joker, Sephiroth, Pyra/Mythra, Kazuya, Steve
+- Timestamp: 02:16:27, Characters: Steve, chickncup, Disco
+- Timestamp: 02:16:47, Characters: Mario, Donkey Kong, Link, Samus, Daisy, Ice Climbers, Mewtwo, Roy, Chrom, Mr. Game & Watch, Lucas, Sonic, King Dedede, Olimar, Greninja, Palutena, Pac-Man, Robin, Ridley, Simon, Richter, King K. Rool, Sephiroth, Pyra/Mythra, Mii Brawler
+- Timestamp: 02:17:05, Characters: Mario, Donkey Kong, Link, Samus, Peach, Daisy, Bowser, Ice Climbers, Mewtwo, Roy, Lucas, Sonic, Ridley, Simon, Richter, King K. Rool, Sephiroth, Pyra/Mythra, Sheik, Dr. Mario, Pokémon Trainer, Pichu, Pikachu, Luigi, Ness, Captain Falcon, Jigglypuff, Yoshi, Kirby, Fox, Wolf, Villager, Mega Man, Banjo & Kazooie, Terry, Byleth, Min Min
+- Timestamp: 02:17:17, Characters: Fox, Pyra
+- Timestamp: 02:17:35, Characters: Fox, Pyra
+- Timestamp: 02:17:50, Characters: Fox, Pyra/Mythra
+- Timestamp: 02:18:02, Characters: Fox, Mythra
+- Timestamp: 02:18:15, Characters: Fox, Pyra
+- Timestamp: 02:18:27, Characters: Fox, Pyra
+- Timestamp: 02:18:40, Characters: Fox, Pyra
+- Timestamp: 02:19:00, Characters: Fox, Pyra
+- Timestamp: 02:19:12, Characters: Fox, Pyra/Mythra
+- Timestamp: 02:19:27, Characters: Fox, Pyra
+- Timestamp: 02:19:45, Characters: Fox, Mythra
+- Timestamp: 02:19:57, Characters: Fox, Pyra
+- Timestamp: 02:20:25, Characters: Shulk, Random
+- Timestamp: 02:20:37, Characters: Zero Suit Samus, Wario
+- Timestamp: 02:20:50, Characters: Zero Suit Samus, Richter
+- Timestamp: 02:21:02, Characters: Greninja, Samus
+- Timestamp: 02:21:15, Characters: Zero Suit Samus, Greninja
+- Timestamp: 02:21:32, Characters: Samus, Greninja
+- Timestamp: 02:22:02, Characters: Zero Suit Samus, Greninja
+- Timestamp: 02:22:20, Characters: Zero Suit Samus, Greninja
+- Timestamp: 02:22:32, Characters: Zero Suit Samus, Greninja
+- Timestamp: 02:22:45, Characters: Zero Suit Samus, Greninja
+- Timestamp: 02:22:57, Characters: Zero Suit Samus, Greninja
+- Timestamp: 02:23:17, Characters: Zero Suit Samus, Greninja
+- Timestamp: 02:23:30, Characters: Zero Suit Samus, Greninja
+- Timestamp: 02:23:42, Characters: Zero Suit Samus, Greninja
+- Timestamp: 02:23:55, Characters: Lucina, Greninja
+- Timestamp: 02:24:12, Characters: Samus, Greninja
+- Timestamp: 02:24:42, Characters: Zero Suit Samus, Greninja
+- Timestamp: 02:24:55, Characters: Zero Suit Samus
+- Timestamp: 02:25:27, Characters: Zero Suit Samus, Mythra/Pyra
+- Timestamp: 02:25:40, Characters: Mythra, Pyra
+- Timestamp: 02:26:05, Characters: Mythra, Pyra
+- Timestamp: 02:26:20, Characters: Pyra, Mythra
+- Timestamp: 02:26:32, Characters: Pyra, Mythra
+- Timestamp: 02:26:45, Characters: Pyra, Mythra
+- Timestamp: 02:26:57, Characters: Mythra, Pyra
+- Timestamp: 02:27:15, Characters: Mythra, Pyra
+- Timestamp: 02:27:30, Characters: Samus, Mythra
+- Timestamp: 02:27:55, Characters: Pyra, Mythra
+- Timestamp: 02:28:07, Characters: Pyra, Mythra
+- Timestamp: 02:28:27, Characters: Pyra, Mythra
+- Timestamp: 02:28:40, Characters: Pyra,Mythra
+- Timestamp: 02:28:52, Characters: Pyra, Mythra
+- Timestamp: 02:29:05, Characters: Pyra, Mythra
+- Timestamp: 02:29:25, Characters: Samus, Pyra
+- Timestamp: 02:29:40, Characters: Pyra, Mythra
+- Timestamp: 02:30:00, Characters: Pyra, Mythra
+- Timestamp: 02:30:25, Characters: YES
+- Timestamp: 02:30:37, Characters: SORA, BRAWLER, UNDEFEATED, GUEN
+- Timestamp: 02:30:55, Characters: Joker, Pyra/Mythra
+- Timestamp: 02:31:07, Characters: Joker, Pyra/Mythra
+- Timestamp: 02:31:32, Characters: Joker, Pyra
+- Timestamp: 02:31:45, Characters: Joker, Pyra
+- Timestamp: 02:32:00, Characters: Joker, Pyra/Mythra
+- Timestamp: 02:32:15, Characters: Joker, Mythra
+- Timestamp: 02:32:32, Characters: Joker, Mythra
+- Timestamp: 02:32:45, Characters: Joker, Pyra/Mythra
+- Timestamp: 02:32:57, Characters: Joker, Pyra/Mythra
+- Timestamp: 02:33:10, Characters: Joker, Pyra
+- Timestamp: 02:33:27, Characters: Joker, Mythra
+- Timestamp: 02:33:42, Characters: Joker, Mythra
+- Timestamp: 02:33:55, Characters: Joker, Pyra
+- Timestamp: 02:34:07, Characters: Joker, Pyra
+- Timestamp: 02:34:22, Characters: Joker, Pyra
+- Timestamp: 02:34:35, Characters: Joker, Pyra
+- Timestamp: 02:34:50, Characters: Joker, Pyra/Mythra
+- Timestamp: 02:35:15, Characters: Joker, Pyra
+- Timestamp: 02:35:27, Characters: Joker
+- Timestamp: 02:35:40, Characters: Joker
